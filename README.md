@@ -1,3 +1,3 @@
-clone 
-make a pull request
+clone, 
+make a pull request,
 push to Dev
